@@ -1,1 +1,1 @@
-This project use to learn golang
+This project used to learn golang
